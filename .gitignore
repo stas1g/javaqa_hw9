@@ -1,4 +1,11 @@
+# Игнорировать папку .idea
+.idea/
+
+# Игнорировать .iml файлы
+*.iml
+
 target/
+
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
